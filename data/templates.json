@@ -1,0 +1,1748 @@
+{
+  "common": {
+    "metadata": {
+      "title": "ENERGYPRO | Oil & Gas Solutions",
+      "description": "ENERGYPRO delivers reliable oil and gas solutions for a stronger world through engineering expertise, advanced technology, and dependable field support.",
+      "icon": "/energypro-favicon.svg?v=2"
+    },
+    "fonts": {
+      "primary": "Poppins",
+      "heading": "Poppins"
+    },
+    "globalUI": {
+      "breadcrumbSeparator": "/"
+    },
+    "globalMotion": {
+      "sectionTravel": 76,
+      "perspective": 1100,
+      "smoothing": 0.09
+    },
+    "Footer": {
+      "logo": "/main logo/footer_logo.webp",
+      "logoAlt": "ENERGYPRO Oil & Gas Solutions logo",
+      "logoUrl": "/",
+      "backgroundImage": "/service/service_bg.webp",
+      "backgroundImageAlt": "ENERGYPRO oil and gas facility background",
+      "copyrightText": "© 2026 ENERGYPRO. All rights reserved. Powered By Lestow",
+      "description": "Reliable oil and gas solutions powered by engineering expertise, advanced technology, and a commitment to safe, efficient operations.",
+      "quickLinksTitle": "Quick Links",
+      "contactTitle": "Contact Information",
+      "servicesTitle": "Our Services",
+      "linkIcon": "FaChevronRight",
+      "socialLinks": [
+        {
+          "id": "social-facebook",
+          "icon": "FaFacebookF",
+          "label": "Facebook",
+          "url": "https://facebook.com"
+        },
+        {
+          "id": "social-instagram",
+          "icon": "FaInstagram",
+          "label": "Instagram",
+          "url": "https://instagram.com"
+        },
+        {
+          "id": "social-youtube",
+          "icon": "FaYoutube",
+          "label": "YouTube",
+          "url": "https://youtube.com"
+        },
+        {
+          "id": "social-linkedin",
+          "icon": "FaLinkedinIn",
+          "label": "LinkedIn",
+          "url": "https://linkedin.com"
+        }
+      ],
+      "quickLinks": [
+        {
+          "id": "quick-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "quick-about",
+          "label": "About Us",
+          "url": "/about"
+        },
+        {
+          "id": "quick-blog",
+          "label": "Blog",
+          "url": "/blog"
+        },
+        {
+          "id": "quick-contact",
+          "label": "Contact Us",
+          "url": "/contact"
+        }
+      ],
+      "serviceLinks": [
+        {
+          "id": "footer-service-exploration",
+          "label": "Exploration & Drilling",
+          "url": "/services/service-exploration-drilling"
+        },
+        {
+          "id": "footer-service-production",
+          "label": "Production & Processing",
+          "url": "/services/service-production-processing"
+        },
+        {
+          "id": "footer-service-pipeline",
+          "label": "Pipeline & Transportation",
+          "url": "/services/service-pipeline-transportation"
+        },
+        {
+          "id": "footer-service-storage",
+          "label": "Storage & Terminal Solutions",
+          "url": "/services/service-storage-terminal"
+        },
+        {
+          "id": "footer-service-view-all",
+          "label": "View All Services",
+          "url": "/services"
+        }
+      ],
+      "contactItems": [
+        {
+          "id": "contact-phone",
+          "icon": "FaPhoneAlt",
+          "title": "Phone",
+          "value": "+1 000000000",
+          "url": "tel:+1000000000"
+        },
+        {
+          "id": "contact-email",
+          "icon": "FaEnvelope",
+          "title": "Email",
+          "value": "info@xyz.com",
+          "url": "mailto:info@xyz.com"
+        },
+        {
+          "id": "contact-office",
+          "icon": "FaMapMarkerAlt",
+          "title": "Address",
+          "value": "123 Main St, New York, NY, USA",
+          "url": "https://www.google.com/maps/search/?api=1&query=123+Main+St%2C+New+York%2C+NY%2C+USA"
+        }
+      ]
+    },
+    "notFound": {
+      "code": "404",
+      "title": "Oops! Page Not Found",
+      "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+      "buttonText": "Back to Home",
+      "buttonUrl": "/"
+    },
+    "aboutBreadcrumb": {
+      "title": "About Us",
+      "bgImage": "/service/service_bg.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-about-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-about-current",
+          "label": "About Us"
+        }
+      ]
+    },
+    "servicesBreadcrumb": {
+      "title": "Our Services",
+      "bgImage": "/service/service_bg.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-services-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-services-current",
+          "label": "Our Services"
+        }
+      ]
+    },
+    "serviceDetailsBreadcrumb": {
+      "title": "Service Details",
+      "bgImage": "/service/service_bg.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-service-details-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-service-details-current",
+          "label": "Service Details"
+        }
+      ]
+    },
+    "projectsBreadcrumb": {
+      "title": "Our Projects",
+      "bgImage": "/service/service_bg.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-projects-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-projects-current",
+          "label": "Our Projects"
+        }
+      ]
+    },
+    "industriesBreadcrumb": {
+      "title": "Industries We Serve",
+      "bgImage": "/service/service_bg.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-industries-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-industries-current",
+          "label": "Industries We Serve"
+        }
+      ]
+    },
+    "sustainabilityBreadcrumb": {
+      "title": "HSE & Sustainability",
+      "bgImage": "/service/service_bg.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-sustainability-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-sustainability-current",
+          "label": "HSE & Sustainability"
+        }
+      ]
+    },
+    "teamBreadcrumb": {
+      "title": "Our Teams",
+      "bgImage": "/service/service_bg.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-team-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-team-current",
+          "label": "Our Teams"
+        }
+      ]
+    },
+    "contactBreadcrumb": {
+      "title": "CONTACT US",
+      "bgImage": "/service/service_bg.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-contact-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-contact-current",
+          "label": "Contact Us"
+        }
+      ]
+    },
+    "enquiryBreadcrumb": {
+      "title": "Enquiry Now",
+      "bgImage": "/service/service_bg.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-enquiry-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-enquiry-current",
+          "label": "Enquiry Now"
+        }
+      ]
+    },
+    "blogsBreadcrumb": {
+      "title": "OUR BLOG",
+      "bgImage": "/service/service_bg.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-blogs-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-blogs-current",
+          "label": "Our Blog"
+        }
+      ]
+    }
+  },
+  "categories": {
+    "Energy": {
+      "sections": {
+        "TopBar": {
+          "variants": {}
+        },
+        "Header": {
+          "variants": {
+            "EnergyHeader1": {
+              "logo": "/main logo/header_logo.webp",
+              "logoAlt": "ENERGYPRO Oil & Gas Solutions logo",
+              "logoUrl": "/",
+              "navigationLabel": "Primary navigation",
+              "navLinksLeft": [
+                {
+                  "id": "nl-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "nl-about",
+                  "label": "About Us",
+                  "url": "/about"
+                },
+                {
+                  "id": "nl-products",
+                  "label": "Our Services",
+                  "url": "/services"
+                },
+                {
+                  "id": "nl-certifications",
+                  "label": "Our Projects",
+                  "url": "/projects"
+                },
+                {
+                  "id": "nl-industries",
+                  "label": "Industries We Serve",
+                  "url": "/industries"
+                }
+              ],
+              "navLinksRight": [
+                {
+                  "id": "nl-hse-sustainability",
+                  "label": "HSE & Sustainability",
+                  "url": "/sustainability"
+                },
+                {
+                  "id": "nl-team",
+                  "label": "Team",
+                  "url": "/team"
+                },
+                {
+                  "id": "nl-blog",
+                  "label": "Blog",
+                  "url": "/blog"
+                },
+                {
+                  "id": "nl-contact",
+                  "label": "Contact Us",
+                  "url": "/contact"
+                }
+              ],
+              "contactButton": {
+                "text": "Enquiry Now",
+                "url": "/enquiry",
+                "icon": "FaArrowRight"
+              },
+              "openMenuLabel": "Open navigation menu",
+              "closeMenuLabel": "Close navigation menu"
+            }
+          }
+        },
+        "HeroHeading": {
+          "variants": {
+            "EnergyHeroHeading1": {
+              "firstLine": "Reliable Energy solution",
+              "secondLine": "For a Stronger world",
+              "image": "/banner/hero_1.webp",
+              "scrollPerWord": 70,
+              "wordSequenceEnd": 0.72,
+              "bannerRevealStart": 0.84,
+              "animationDuration": 0.75,
+              "animationOffset": 44,
+              "animationViewportAmount": 0.55
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "EnergyHero1": {
+              "autoplayDelay": 6000,
+              "slideNavigationLabel": "Show hero slide",
+              "animationDuration": 0.9,
+              "animationViewportAmount": 0.25,
+              "animationOffset": 56,
+              "animationScale": 1.04,
+              "slides": [
+                {
+                  "id": "hero-reliable-energy",
+                  "eyebrow": "OIL & GAS SOLUTIONS",
+                  "titleLine1": "RELIABLE ENERGY",
+                  "highlightedTitle": "FOR A STRONGER WORLD",
+                  "description": "Delivering dependable energy solutions through engineering expertise, advanced technology, and a commitment to safe, efficient operations.",
+                  "image": "/banner/hero_1.webp",
+                  "imageAlt": "ENERGYPRO oil and gas processing facility at sunset",
+                  "primaryButton": {
+                    "text": "Explore Services",
+                    "url": "/services",
+                    "icon": "FaArrowRight"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "EnergyAboutUs1": {
+              "scrollMotion": { "travel": 60, "imageScale": 1.18 },
+              "revealMotion": { "stiffness": 45, "damping": 24, "travel": 48, "stagger": 0.08 },
+              "subtitle": "About Us",
+              "titleLine1": "Projects Completed &",
+              "highlightedTitle": "Field Professionals",
+              "description": "We are a trusted oil and gas company delivering innovative energy solutions through engineering expertise, advanced technology, and a committed team of professionals.",
+              "description2": "ENERGYPRO supports exploration, production, processing, transportation, and storage operations with a focus on safety, reliability, and long-term performance.",
+              "imageMain": "/about/4.webp",
+              "imageMainAlt": "ENERGYPRO oil storage facility and field infrastructure",
+              "excellenceTitle": "Excellence in Exploration, Production & Energy Services",
+              "checklist": [
+                {
+                  "id": "about-check-safety",
+                  "text": "Safe, reliable and efficient operations"
+                },
+                {
+                  "id": "about-check-standards",
+                  "text": "On-time and within regulatory standards"
+                },
+                {
+                  "id": "about-check-experience",
+                  "text": "Experienced and skilled field professionals"
+                }
+              ],
+              "expertImages": [
+                {
+                  "id": "about-expert-1",
+                  "image": "/team/1.webp",
+                  "imageAlt": "ENERGYPRO field expert"
+                },
+                {
+                  "id": "about-expert-2",
+                  "image": "/team/02.webp",
+                  "imageAlt": "ENERGYPRO operations expert"
+                },
+                {
+                  "id": "about-expert-3",
+                  "image": "/team/03.webp",
+                  "imageAlt": "ENERGYPRO engineering expert"
+                },
+                {
+                  "id": "about-expert-4",
+                  "image": "/team/04.webp",
+                  "imageAlt": "ENERGYPRO production expert"
+                }
+              ],
+              "expertsLabel": "Our Field Experts",
+              "activeFieldsValue": 57,
+              "activeFieldsSuffix": "+",
+              "activeFieldsLabel": "Active Fields",
+              "animationDuration": 0.85,
+              "animationViewportAmount": 0.2,
+              "imageAnimationOffset": 140,
+              "button": {
+                "text": "Explore Us",
+                "url": "/about"
+              }
+            }
+          }
+        },
+        "OurServices": {
+          "variants": {
+            "EnergyOurServices1": {
+              "scrollMotion": { "travel": 100, "imageScale": 1.22 },
+              "subtitle": "OUR SERVICES",
+              "titleLine1": "Comprehensive",
+              "highlightedTitle": "Oil & Gas Solutions",
+              "description": "From exploration to distribution, we provide end-to-end solutions across the oil & gas value chain.",
+              "button": {
+                "text": "View All Services",
+                "url": "/services",
+                "icon": "FaArrowRight"
+              },
+              "services": [
+                {
+                  "id": "service-exploration-drilling",
+                  "title": "Exploration & Drilling",
+                  "image": "/service/1.webp",
+                  "imageAlt": "Exploration and drilling offshore oil rig platform at sunset",
+                  "linkUrl": "/services/service-exploration-drilling",
+                  "tag1": "OUR SERVICE",
+                  "heading1": "Oil & Gas Engineering",
+                  "description1": "We provide comprehensive oil & gas engineering services designed to meet the evolving needs of the energy industry. Our solutions combine advanced technology, industry expertise and best practices to deliver safe, efficient and cost-effective outcomes across the entire project lifecycle.",
+                  "featureCards": [
+                    {
+                      "id": "fc-advanced-tech",
+                      "icon": "gear",
+                      "title": "Advanced\nTechnology"
+                    },
+                    {
+                      "id": "fc-safe-reliable",
+                      "icon": "shield",
+                      "title": "Safe & Reliable\nOperations"
+                    },
+                    {
+                      "id": "fc-experienced-team",
+                      "icon": "team",
+                      "title": "Experienced\nTeam"
+                    },
+                    {
+                      "id": "fc-sustainable",
+                      "icon": "leaf",
+                      "title": "Sustainable\nSolutions"
+                    }
+                  ],
+                  "tag2": "KEY FEATURES",
+                  "heading2": "What We Offer",
+                  "description2": "Our oil & gas engineering services cover a wide range of solutions tailored to your operational goals.",
+                  "offerPoints": [
+                    {
+                      "id": "op-1",
+                      "text": "Feasibility Studies & Project Planning"
+                    },
+                    {
+                      "id": "op-2",
+                      "text": "Engineering Design & Development"
+                    },
+                    {
+                      "id": "op-3",
+                      "text": "Process Optimization & Efficiency Improvement"
+                    },
+                    {
+                      "id": "op-4",
+                      "text": "Equipment Selection & Procurement Support"
+                    },
+                    {
+                      "id": "op-5",
+                      "text": "Installation, Commissioning & Field Support"
+                    },
+                    {
+                      "id": "op-6",
+                      "text": "Compliance with International Standards"
+                    },
+                    {
+                      "id": "op-7",
+                      "text": "Sustainable and Environment-Friendly Practices"
+                    },
+                    {
+                      "id": "op-8",
+                      "text": "Ongoing Maintenance & Technical Support"
+                    }
+                  ],
+                  "imageOffer": "/service/1.webp",
+                  "imageOfferAlt": "Offshore drilling platform offshore engineering facility",
+                  "tag3": "WHY CHOOSE US",
+                  "heading3": "Why Choose Our Oil & Gas Engineering Services",
+                  "description3": "We bring together industry expertise, innovation and a commitment to safety and sustainability to deliver engineering solutions you can trust.",
+                  "whyChoosePoints": [
+                    {
+                      "id": "wcp-1",
+                      "text": "Proven track record in oil & gas projects"
+                    },
+                    {
+                      "id": "wcp-2",
+                      "text": "Experienced and certified professionals"
+                    },
+                    {
+                      "id": "wcp-3",
+                      "text": "Use of advanced engineering tools and technologies"
+                    },
+                    {
+                      "id": "wcp-4",
+                      "text": "Focus on safety, quality and compliance"
+                    },
+                    {
+                      "id": "wcp-5",
+                      "text": "Customized solutions for diverse industry needs"
+                    },
+                    {
+                      "id": "wcp-6",
+                      "text": "Commitment to sustainable and environmentally responsible practices"
+                    }
+                  ],
+                  "imageWhyChoose": "/service/2.webp",
+                  "imageWhyChooseAlt": "Two oil and gas engineers reviewing specifications at refinery plant"
+                },
+                {
+                  "id": "service-production-processing",
+                  "title": "Production & Processing",
+                  "image": "/service/2.webp",
+                  "imageAlt": "Oil and gas refinery distillation towers and processing plant",
+                  "linkUrl": "/services/service-production-processing",
+                  "tag1": "OUR SERVICE",
+                  "heading1": "Production & Processing Solutions",
+                  "description1": "We provide end-to-end production and processing facilities engineering designed to meet demanding oil & gas standards. Our solutions combine cutting-edge refining technology, field expertise and automation to deliver maximized throughput safely.",
+                  "featureCards": [
+                    {
+                      "id": "fc-prod-tech",
+                      "icon": "gear",
+                      "title": "Automated\nProcessing"
+                    },
+                    {
+                      "id": "fc-prod-safe",
+                      "icon": "shield",
+                      "title": "Certified Quality\n& Safety"
+                    },
+                    {
+                      "id": "fc-prod-team",
+                      "icon": "team",
+                      "title": "Dedicated Field\nEngineers"
+                    },
+                    {
+                      "id": "fc-prod-sustainable",
+                      "icon": "leaf",
+                      "title": "Low Emission\nOperations"
+                    }
+                  ],
+                  "tag2": "KEY FEATURES",
+                  "heading2": "What We Offer",
+                  "description2": "Our production & processing operations deliver high performance refining and chemical treatment systems.",
+                  "offerPoints": [
+                    {
+                      "id": "op-prod-1",
+                      "text": "Crude Distillation & Fractionation Units"
+                    },
+                    {
+                      "id": "op-prod-2",
+                      "text": "Gas Separation & Sweetening Facilities"
+                    },
+                    {
+                      "id": "op-prod-3",
+                      "text": "Automated Control & SCADA Integration"
+                    },
+                    {
+                      "id": "op-prod-4",
+                      "text": "Effluent Treatment & Energy Recovery"
+                    },
+                    {
+                      "id": "op-prod-5",
+                      "text": "Turnaround Management & Maintenance"
+                    },
+                    {
+                      "id": "op-prod-6",
+                      "text": "Safety Instrumented System (SIS) Compliance"
+                    }
+                  ],
+                  "imageOffer": "/service/2.webp",
+                  "imageOfferAlt": "Modern processing distillation towers and plant units",
+                  "tag3": "WHY CHOOSE US",
+                  "heading3": "Why Choose Our Production & Processing Services",
+                  "description3": "We optimize operational yields while reducing carbon intensity and preventing unplanned downtime across refineries.",
+                  "whyChoosePoints": [
+                    {
+                      "id": "wcp-prod-1",
+                      "text": "Decades of proven petrochemical and refinery track record"
+                    },
+                    {
+                      "id": "wcp-prod-2",
+                      "text": "ISO 9001, 14001, and 45001 certified execution"
+                    },
+                    {
+                      "id": "wcp-prod-3",
+                      "text": "Real-time remote plant health monitoring"
+                    },
+                    {
+                      "id": "wcp-prod-4",
+                      "text": "High recovery efficiency and reduced flaring"
+                    }
+                  ],
+                  "imageWhyChoose": "/service/3.webp",
+                  "imageWhyChooseAlt": "Industrial pipeline transport connecting processing unit"
+                },
+                {
+                  "id": "service-pipeline-transportation",
+                  "title": "Pipeline & Transportation",
+                  "image": "/service/3.webp",
+                  "imageAlt": "Oil and gas pipeline transportation network at sunset",
+                  "linkUrl": "/services/service-pipeline-transportation",
+                  "tag1": "OUR SERVICE",
+                  "heading1": "Pipeline & Midstream Logistics",
+                  "description1": "We engineer and maintain safe, high-capacity pipeline infrastructures for hydrocarbon transmission. From cross-country trunklines to gathering networks, we ensure leak-free, regulated transmission across challenging environments.",
+                  "featureCards": [
+                    {
+                      "id": "fc-pipe-tech",
+                      "icon": "gear",
+                      "title": "Intelligent PIG\nInspection"
+                    },
+                    {
+                      "id": "fc-pipe-safe",
+                      "icon": "shield",
+                      "title": "Real-Time Leak\nDetection"
+                    },
+                    {
+                      "id": "fc-pipe-team",
+                      "icon": "team",
+                      "title": "Specialized Field\nCrews"
+                    },
+                    {
+                      "id": "fc-pipe-sustainable",
+                      "icon": "leaf",
+                      "title": "Corrosion-Proof\nCoatings"
+                    }
+                  ],
+                  "tag2": "KEY FEATURES",
+                  "heading2": "What We Offer",
+                  "description2": "Our pipeline transportation services cover engineering, installation, hydro-testing, and life-cycle integrity assurance.",
+                  "offerPoints": [
+                    {
+                      "id": "op-pipe-1",
+                      "text": "Route Survey, Geotechnical & Hydraulic Modeling"
+                    },
+                    {
+                      "id": "op-pipe-2",
+                      "text": "Pipeline Trenching, Welding & Non-Destructive Testing"
+                    },
+                    {
+                      "id": "op-pipe-3",
+                      "text": "Pump & Compressor Station Construction"
+                    },
+                    {
+                      "id": "op-pipe-4",
+                      "text": "Cathodic Protection & Coating Systems"
+                    },
+                    {
+                      "id": "op-pipe-5",
+                      "text": "In-Line Inspection (ILI) & Pipeline Rehabilitation"
+                    }
+                  ],
+                  "imageOffer": "/service/3.webp",
+                  "imageOfferAlt": "Oil and gas transmission pipeline grid",
+                  "tag3": "WHY CHOOSE US",
+                  "heading3": "Why Choose Our Pipeline & Logistics Services",
+                  "description3": "Our midstream engineering guarantees continuous flow, zero-loss compliance, and environmental safety.",
+                  "whyChoosePoints": [
+                    {
+                      "id": "wcp-pipe-1",
+                      "text": "Comprehensive pipeline integrity management system (PIMS)"
+                    },
+                    {
+                      "id": "wcp-pipe-2",
+                      "text": "Rapid emergency response and hot tapping capabilities"
+                    },
+                    {
+                      "id": "wcp-pipe-3",
+                      "text": "Compliance with ASME B31.4 / B31.8 international codes"
+                    }
+                  ],
+                  "imageWhyChoose": "/service/4.webp",
+                  "imageWhyChooseAlt": "Large scale bulk terminal storage connected with pipeline"
+                },
+                {
+                  "id": "service-storage-terminal",
+                  "title": "Storage & Terminal Solutions",
+                  "image": "/service/4.webp",
+                  "imageAlt": "Industrial oil and fuel storage tanks and terminal facilities",
+                  "linkUrl": "/services/service-storage-terminal",
+                  "tag1": "OUR SERVICE",
+                  "heading1": "Bulk Storage & Terminal Engineering",
+                  "description1": "We design, build, and automate high-capacity storage terminals for crude oil, refined products, and petrochemicals. Our facilities integrate floating roof tanks, automated custody transfer, and world-class vapor recovery systems.",
+                  "featureCards": [
+                    {
+                      "id": "fc-term-tech",
+                      "icon": "gear",
+                      "title": "Automated Tank\nGauging"
+                    },
+                    {
+                      "id": "fc-term-safe",
+                      "icon": "shield",
+                      "title": "Vapor Recovery\n& Fire Safety"
+                    },
+                    {
+                      "id": "fc-term-team",
+                      "icon": "team",
+                      "title": "Terminal Logistics\nExperts"
+                    },
+                    {
+                      "id": "fc-term-sustainable",
+                      "icon": "leaf",
+                      "title": "Zero Spillage\nContainment"
+                    }
+                  ],
+                  "tag2": "KEY FEATURES",
+                  "heading2": "What We Offer",
+                  "description2": "Our terminal solutions support rail, marine jetty, and truck loading operations with precise blending capabilities.",
+                  "offerPoints": [
+                    {
+                      "id": "op-term-1",
+                      "text": "API 650 Storage Tank Engineering & Erection"
+                    },
+                    {
+                      "id": "op-term-2",
+                      "text": "Marine Jetty & Tanker Loading Arms"
+                    },
+                    {
+                      "id": "op-term-3",
+                      "text": "Automated Truck Loading Racks & Flow Metering"
+                    },
+                    {
+                      "id": "op-term-4",
+                      "text": "Foam & Deluge Fire Protection Infrastructure"
+                    },
+                    {
+                      "id": "op-term-5",
+                      "text": "Vapor Recovery Units (VRU) & Environmental Safeguards"
+                    }
+                  ],
+                  "imageOffer": "/service/4.webp",
+                  "imageOfferAlt": "Petroleum product storage farm with spherical and cylindrical tanks",
+                  "tag3": "WHY CHOOSE US",
+                  "heading3": "Why Choose Our Storage & Terminal Facilities",
+                  "description3": "We empower supply chain resilience with safe, compliant, and highly automated bulk storage operations.",
+                  "whyChoosePoints": [
+                    {
+                      "id": "wcp-term-1",
+                      "text": "Turnkey EPC execution with proven tank farm delivery"
+                    },
+                    {
+                      "id": "wcp-term-2",
+                      "text": "State-of-the-art automated custody transfer metering"
+                    },
+                    {
+                      "id": "wcp-term-3",
+                      "text": "Strict adherence to NFPA, API, and environmental standards"
+                    }
+                  ],
+                  "imageWhyChoose": "/service/1.webp",
+                  "imageWhyChooseAlt": "Offshore and coastal storage delivery network"
+                }
+              ]
+            }
+          }
+        },
+        "Industries": {
+          "variants": {
+            "EnergyIndustries1": {
+              "subtitle": "INDUSTRIES WE SERVE",
+              "title": "Powering Multiple",
+              "highlightedTitle": "Industries",
+              "description": "Our advanced oil & gas solutions cater to a wide range of industrial sectors, helping businesses improve efficiency, safety and long-term sustainability.",
+              "items": [
+                {
+                  "id": "ind-oil-gas-exploration",
+                  "title": "Oil & Gas Exploration",
+                  "subtitle": "Exceptional Achievement",
+                  "image": "/service/1.webp",
+                  "imageAlt": "Oil pumpjack drilling unit at golden sunset"
+                },
+                {
+                  "id": "ind-petroleum-refining",
+                  "title": "Petroleum Refining",
+                  "subtitle": "Exceptional Achievement",
+                  "image": "/service/2.webp",
+                  "imageAlt": "Petroleum refinery distillation columns illuminated"
+                },
+                {
+                  "id": "ind-petrochemical-industry",
+                  "title": "Petrochemical Industry",
+                  "subtitle": "Exceptional Achievement",
+                  "image": "/service/3.webp",
+                  "imageAlt": "Petrochemical processing spherical and cylindrical units"
+                },
+                {
+                  "id": "ind-energy-power-generation",
+                  "title": "Energy & Power Generation",
+                  "subtitle": "Exceptional Achievement",
+                  "image": "/service/4.webp",
+                  "imageAlt": "Thermal power plant cooling towers with steam emission"
+                },
+                {
+                  "id": "ind-chemical-manufacturing",
+                  "title": "Chemical Manufacturing",
+                  "subtitle": "Exceptional Achievement",
+                  "image": "/service/1.webp",
+                  "imageAlt": "Industrial chemical processing towers and piping network"
+                },
+                {
+                  "id": "ind-offshore-marine",
+                  "title": "Offshore & Marine",
+                  "subtitle": "Exceptional Achievement",
+                  "image": "/service/2.webp",
+                  "imageAlt": "Deepwater offshore drilling platform floating at sea"
+                },
+                {
+                  "id": "ind-industrial-manufacturing",
+                  "title": "Industrial Manufacturing",
+                  "subtitle": "Exceptional Achievement",
+                  "image": "/service/3.webp",
+                  "imageAlt": "Heavy industrial concrete construction site with crane"
+                },
+                {
+                  "id": "ind-pipeline-transportation",
+                  "title": "Pipeline & Transportation",
+                  "subtitle": "Exceptional Achievement",
+                  "image": "/service/4.webp",
+                  "imageAlt": "Large cross-country oil and gas pipeline at sunset"
+                },
+                {
+                  "id": "ind-storage-distribution",
+                  "title": "Storage & Distribution",
+                  "subtitle": "Exceptional Achievement",
+                  "image": "/service/1.webp",
+                  "imageAlt": "High capacity white bulk storage tanks with spiral stairs"
+                }
+              ]
+            }
+          }
+        },
+        "Sustainability": {
+          "variants": {
+            "EnergySustainability1": {
+              "introTag": "HSE INTRODUCTION",
+              "introTitle": "Our Commitment to A Safer &",
+              "introHighlightedTitle": "Sustainable Future",
+              "introDescription": "At ENERGYPRO, we believe that operational excellence goes hand in hand with the health, safety, environment and well-being of our people, communities and the planet. We are committed to conducting our operations responsibly while minimizing environmental impact and creating long-term value.",
+              "introPillars": [
+                {
+                  "id": "intro-health-first",
+                  "icon": "helmet",
+                  "title": "Health\nFirst"
+                },
+                {
+                  "id": "intro-greener-ops",
+                  "icon": "leaf",
+                  "title": "Greener\nOperations"
+                },
+                {
+                  "id": "intro-sustainable-growth",
+                  "icon": "gear",
+                  "title": "Sustainable\nGrowth"
+                }
+              ],
+              "safetyTag": "HEALTH & SAFETY POLICY",
+              "safetyTitle": "People's Safety Our",
+              "safetyHighlightedTitle": "Top Priority",
+              "safetyDescription": "We are dedicated to providing a safe and healthy workplace for all employees, contractors and visitors. Our health and safety policy ensures risk-free operations through robust systems, preventive measures and continuous improvement.",
+              "safetyChecklist": [
+                { "id": "sc-1", "text": "Safe working environment" },
+                { "id": "sc-2", "text": "Employee health & well-being" },
+                { "id": "sc-3", "text": "Risk management and incident prevention" },
+                { "id": "sc-4", "text": "Compliance with safety regulations" }
+              ],
+              "safetyImage": "/service/2.webp",
+              "safetyImageAlt": "Engineers in protective safety gear at industrial plant",
+              "envTag": "ENVIRONMENTAL MANAGEMENT",
+              "envTitle": "Protecting Our",
+              "envHighlightedTitle": "Environment",
+              "envDescription": "We take proactive steps to minimize our environmental footprint through responsible operations, pollution prevention and efficient resource utilization.",
+              "envPillars": [
+                {
+                  "id": "env-pollution",
+                  "icon": "leaf",
+                  "title": "Pollution\nPrevention"
+                },
+                {
+                  "id": "env-waste",
+                  "icon": "recycle",
+                  "title": "Waste\nManagement"
+                },
+                {
+                  "id": "env-resource",
+                  "icon": "drop",
+                  "title": "Resource\nConservation"
+                },
+                {
+                  "id": "env-biodiversity",
+                  "icon": "leaf",
+                  "title": "Biodiversity\nProtection"
+                }
+              ],
+              "envImage": "/service/1.webp",
+              "envImageAlt": "Worker holding sapling in soil in front of plant",
+              "practicesTag": "OUR SAFETY PRACTICES",
+              "practicesTitle": "Strong Practices for",
+              "practicesHighlightedTitle": "Safer Operations",
+              "practicesDescription": "We implement industry best practices to ensure safe, reliable and efficient operations across all our projects.",
+              "practicesItems": [
+                {
+                  "id": "sp-ppe",
+                  "icon": "shield",
+                  "title": "Personal\nProtective\nEquipment (PPE)"
+                },
+                {
+                  "id": "sp-risk",
+                  "icon": "document",
+                  "title": "Risk\nAssessment"
+                },
+                {
+                  "id": "sp-training",
+                  "icon": "team",
+                  "title": "Safety\nTraining"
+                },
+                {
+                  "id": "sp-emergency",
+                  "icon": "siren",
+                  "title": "Emergency\nResponse"
+                }
+              ],
+              "practicesImage": "/service/2.webp",
+              "practicesImageAlt": "Engineer checking digital tablet at refinery facility",
+              "cleanerTag": "SUSTAINABILITY INITIATIVES",
+              "cleanerTitle": "Driving a Cleaner and",
+              "cleanerHighlightedTitle": "Greener Tomorrow",
+              "cleanerDescription": "We are focused on sustainable growth through innovative solutions, energy efficiency and responsible operations.",
+              "cleanerChecklist": [
+                { "id": "cl-1", "text": "Energy efficiency and clean technologies" },
+                { "id": "cl-2", "text": "Emissions reduction and carbon management" },
+                { "id": "cl-3", "text": "Sustainable use of natural resources" },
+                { "id": "cl-4", "text": "Support for renewable energy and low-carbon solutions" }
+              ],
+              "cleanerImage": "/service/3.webp",
+              "cleanerImageAlt": "Lush green grass in front of modern clean energy distillation facility",
+              "standardsTag": "QUALITY & COMPLIANCE",
+              "standardsTitle": "Meeting Global",
+              "standardsHighlightedTitle": "Standards",
+              "standardsDescription": "We comply with all applicable laws, industry standards and regulatory requirements. Our internal procedures ensure consistent monitoring, reporting and continuous improvement.",
+              "standardsBadges": [
+                { "id": "badge-iso-9001", "code": "ISO\n9001", "color": "blue" },
+                { "id": "badge-iso-14001", "code": "ISO\n14001", "color": "green" },
+                { "id": "badge-iso-45001", "code": "ISO\n45001", "color": "red" },
+                { "id": "badge-api", "code": "API\nStandards", "color": "darkblue" }
+              ],
+              "standardsImage": "/service/2.webp",
+              "standardsImageAlt": "Refinery processing plant at sunset",
+              "cultureTag": "EMPLOYEE TRAINING & AWARENESS",
+              "cultureTitle": "Building a Safety-First",
+              "cultureHighlightedTitle": "Culture",
+              "cultureDescription": "We conduct regular training programs, safety workshops and awareness initiatives to ensure that our team is well-equipped with the knowledge and skills to maintain safe and responsible operations.",
+              "cultureImage": "/service/4.webp",
+              "cultureImageAlt": "Safety first training session with industrial workers and whiteboard",
+              "commitmentTag": "OUR HSE COMMITMENT",
+              "commitmentTitle": "Responsible Operations for a",
+              "commitmentHighlightedTitle": "Better Tomorrow",
+              "commitmentDescription": "We remain committed to continuous improvement in health, safety, environmental performance and sustainability, ensuring a safer workplace, a cleaner environment and stronger communities.",
+              "commitmentImage": "/service/1.webp",
+              "commitmentImageAlt": "Hands holding green globe with sustainability icons"
+            }
+          }
+        },
+        "Projects": {
+          "variants": {
+            "EnergyProjects1": {
+              "subtitle": "OUR PROJECTS",
+              "title": "EXPLORE OUR",
+              "highlightedTitle": "FEATURED PROJECTS",
+              "description": "Delivering high-impact engineering, pipeline logistics, offshore drilling, and bulk terminal installations across global energy corridors.",
+              "allTabLabel": "All Projects",
+              "tabs": [
+                {
+                  "id": "tab-drilling",
+                  "label": "Drilling & Offshore",
+                  "category": "drilling"
+                },
+                {
+                  "id": "tab-refining",
+                  "label": "Refining & Processing",
+                  "category": "refining"
+                },
+                {
+                  "id": "tab-pipelines",
+                  "label": "Pipelines & Logistics",
+                  "category": "pipelines"
+                },
+                {
+                  "id": "tab-storage",
+                  "label": "Storage Terminals",
+                  "category": "storage"
+                }
+              ],
+              "items": [
+                {
+                  "id": "proj-deepwater-gulf",
+                  "title": "Deepwater Offshore Platform Development",
+                  "category": "drilling",
+                  "categoryLabel": "Drilling & Offshore",
+                  "location": "Gulf Energy Basin",
+                  "description": "EPC execution of high-depth drilling infrastructure featuring harsh-weather stability systems and zero-discharge environmental compliance.",
+                  "image": "/service/1.webp",
+                  "imageAlt": "Deepwater offshore drilling platform at sunset",
+                  "linkUrl": "/services/service-exploration-drilling"
+                },
+                {
+                  "id": "proj-petrochemical-fractionation",
+                  "title": "Petrochemical Fractionation & Refining Complex",
+                  "category": "refining",
+                  "categoryLabel": "Refining & Processing",
+                  "location": "Rotterdam Hub",
+                  "description": "Turnaround engineering and modernization of crude distillation units, raising daily throughput by 35% with state-of-the-art energy recovery.",
+                  "image": "/service/2.webp",
+                  "imageAlt": "Petrochemical distillation columns and processing facility",
+                  "linkUrl": "/services/service-production-processing"
+                },
+                {
+                  "id": "proj-transcontinental-gas-pipeline",
+                  "title": "Cross-Country High-Pressure Gas Trunkline",
+                  "category": "pipelines",
+                  "categoryLabel": "Pipelines & Logistics",
+                  "location": "Central Energy Corridor",
+                  "description": "Over 480km of automated 42-inch high-pressure pipeline equipped with fiber-optic distributed acoustic sensing (DAS) for leak detection.",
+                  "image": "/service/3.webp",
+                  "imageAlt": "Large diameter transmission pipeline network",
+                  "linkUrl": "/services/service-pipeline-transportation"
+                },
+                {
+                  "id": "proj-bulk-terminal-coastal",
+                  "title": "Strategic Coastal Liquid Terminal Expansion",
+                  "category": "storage",
+                  "categoryLabel": "Storage Terminals",
+                  "location": "Eastern Seaboard",
+                  "description": "Erection of 8 new API 650 floating-roof storage tanks with automated radar gauging, marine jetty tanker arms, and vapor combustion.",
+                  "image": "/service/4.webp",
+                  "imageAlt": "Strategic bulk terminal and crude storage tanks",
+                  "linkUrl": "/services/service-storage-terminal"
+                },
+                {
+                  "id": "proj-subsea-wellhead-tieback",
+                  "title": "Subsea Wellhead Tie-Back & Flowline Integration",
+                  "category": "drilling",
+                  "categoryLabel": "Drilling & Offshore",
+                  "location": "North Sea Sector",
+                  "description": "Integrated subsea manifold installation and umbilical connections engineered for ultra-high temperature and corrosive reservoir environments.",
+                  "image": "/service/1.webp",
+                  "imageAlt": "Subsea and offshore marine drilling operations",
+                  "linkUrl": "/services/service-exploration-drilling"
+                },
+                {
+                  "id": "proj-clean-fuels-refinery",
+                  "title": "Clean Fuels Hydrotreater Modernization",
+                  "category": "refining",
+                  "categoryLabel": "Refining & Processing",
+                  "location": "Middle East Energy Hub",
+                  "description": "Hydroprocessing and sulfur recovery unit engineering delivering ultra-low sulfur diesel (ULSD) meeting stringent Euro VI specifications.",
+                  "image": "/service/2.webp",
+                  "imageAlt": "Clean fuels hydroprocessing refinery units",
+                  "linkUrl": "/services/service-production-processing"
+                },
+                {
+                  "id": "proj-multi-product-pipeline",
+                  "title": "Multi-Product Jet Fuel & Diesel Pipeline",
+                  "category": "pipelines",
+                  "categoryLabel": "Pipelines & Logistics",
+                  "location": "Metro Supply Link",
+                  "description": "Dual-line batching pipeline network linking regional refineries directly to airport fuel depots with automated SCADA custody transfer.",
+                  "image": "/service/3.webp",
+                  "imageAlt": "Industrial pipeline transport connecting to airport distribution",
+                  "linkUrl": "/services/service-pipeline-transportation"
+                },
+                {
+                  "id": "proj-automated-truck-rack",
+                  "title": "Automated High-Speed Terminal Loading Racks",
+                  "category": "storage",
+                  "categoryLabel": "Storage Terminals",
+                  "location": "Inland Logistics Park",
+                  "description": "16-bay bottom-loading automated truck terminal capable of handling over 250 road tankers daily with vapor recovery safety integration.",
+                  "image": "/service/4.webp",
+                  "imageAlt": "Automated bulk storage and distribution rack facility",
+                  "linkUrl": "/services/service-storage-terminal"
+                }
+              ]
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "EnergyTestimonials1": {
+              "subtitle": "TESTIMONIALS",
+              "title1": "What Our",
+              "highlightedTitle": "Clients Say",
+              "title2": "About Us",
+              "cardBackground": "/service/2.webp",
+              "stackMotion": {
+                "stickyTop": 130,
+                "layerOffset": 20,
+                "visibleLayers": 3,
+                "entryTravel": 72
+              },
+              "testimonials": [
+                {
+                  "id": "testimonial-rahul-mehta",
+                  "name": "Rahul Mehta",
+                  "role": "Procurement Manager",
+                  "company": "EnergyCore Pvt. Ltd.",
+                  "location": "Mumbai, India",
+                  "quote": "Their team delivered exceptional support throughout our project. The quality of service, safety standards and timely execution exceeded our expectations.",
+                  "rating": 5,
+                  "avatar": "/team/1.webp",
+                  "imageAlt": "Rahul Mehta, Procurement Manager"
+                },
+                {
+                  "id": "testimonial-suresh-patel",
+                  "name": "Suresh Patel",
+                  "role": "Operations Director",
+                  "company": "Apex PetroChem Ltd.",
+                  "location": "Gujarat, India",
+                  "quote": "Their reliable pipeline support and safety-first approach made a tangible difference to our downstream operations.",
+                  "rating": 5,
+                  "avatar": "/team/02.webp",
+                  "imageAlt": "Suresh Patel, Operations Director"
+                },
+                {
+                  "id": "testimonial-anita-deshmukh",
+                  "name": "Anita Deshmukh",
+                  "role": "Head of Projects",
+                  "company": "Offshore Energy Solutions",
+                  "location": "Abu Dhabi, UAE",
+                  "quote": "Their comprehensive energy solutions and technical integrity have been pivotal to our international operations.",
+                  "rating": 5,
+                  "avatar": "/team/03.webp",
+                  "imageAlt": "Anita Deshmukh, Head of Projects"
+                }
+              ]
+            }
+          }
+        },
+        "Team": {
+          "variants": {
+            "EnergyTeam1": {
+              "subtitle": "OUR TEAM",
+              "title": "Meet Our",
+              "highlightedTitle": "Experts",
+              "description": "Our experienced professionals bring engineering expertise, operational discipline and a shared commitment to safer, smarter energy solutions.",
+              "members": [
+                {
+                  "id": "team-arjun-sharma",
+                  "name": "Arjun Sharma",
+                  "role": "Chief Executive Officer",
+                  "image": "/team/1.webp",
+                  "imageAlt": "Arjun Sharma, Chief Executive Officer",
+                  "socials": [
+                    { "id": "arjun-linkedin", "icon": "FaLinkedinIn", "label": "LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "arjun-email", "icon": "FaEnvelope", "label": "Email", "url": "mailto:info@xyz.com" }
+                  ]
+                },
+                {
+                  "id": "team-neha-patel",
+                  "name": "Neha Patel",
+                  "role": "Director of Operations",
+                  "image": "/team/02.webp",
+                  "imageAlt": "Neha Patel, Director of Operations",
+                  "socials": [
+                    { "id": "neha-linkedin", "icon": "FaLinkedinIn", "label": "LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "neha-email", "icon": "FaEnvelope", "label": "Email", "url": "mailto:info@xyz.com" }
+                  ]
+                },
+                {
+                  "id": "team-vikram-singh",
+                  "name": "Vikram Singh",
+                  "role": "Head of Engineering",
+                  "image": "/team/03.webp",
+                  "imageAlt": "Vikram Singh, Head of Engineering",
+                  "socials": [
+                    { "id": "vikram-linkedin", "icon": "FaLinkedinIn", "label": "LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "vikram-email", "icon": "FaEnvelope", "label": "Email", "url": "mailto:info@xyz.com" }
+                  ]
+                },
+                {
+                  "id": "team-priya-nair",
+                  "name": "Priya Nair",
+                  "role": "HSE & Sustainability Lead",
+                  "image": "/team/04.webp",
+                  "imageAlt": "Priya Nair, HSE and Sustainability Lead",
+                  "socials": [
+                    { "id": "priya-linkedin", "icon": "FaLinkedinIn", "label": "LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "priya-email", "icon": "FaEnvelope", "label": "Email", "url": "mailto:info@xyz.com" }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "Blog": {
+          "variants": {
+            "EnergyBlog1": {
+              "subtitle": "OUR BLOG",
+              "title1": "Latest Insights",
+              "highlightedTitle": "from Oil & Gas Industry",
+              "description": "Stay updated with the latest trends, innovations and expert insights from the oil & gas sector.",
+              "backgroundImage": "/blog/1.webp",
+              "backgroundImageAlt": "Offshore oil platform at sunset",
+              "authorPrefix": "By",
+              "readMoreText": "Read More",
+              "viewAllText": "View All Blogs",
+              "viewAllUrl": "/blog",
+              "itemsPerPage": 9,
+              "paginationLabel": "Blog page",
+              "previousPageLabel": "Previous blog page",
+              "nextPageLabel": "Next blog page",
+              "pagination": [
+                { "id": "energy-blog-page-1", "label": "1", "page": 1 }
+              ],
+              "authors": [
+                {
+                  "id": "energy-blog-admin",
+                  "name": "Admin",
+                  "role": "ENERGYPRO Editorial Team",
+                  "image": "/main logo/header_logo.webp",
+                  "imageAlt": "ENERGYPRO editorial team"
+                }
+              ],
+              "detail": {
+                "recentPostsTitle": "RECENT POSTS",
+                "authorLabel": "By",
+                "quoteText": "Innovation, sustainability and resilient infrastructure are shaping the next era of energy.",
+                "conclusionTitle": "Conclusion",
+                "conclusionText": "The future of the oil and gas industry is bright, with immense opportunities driven by innovation, sustainability and rising global energy demand. Companies that adapt to changing market conditions and invest in advanced technologies will be well-positioned to achieve long-term success.",
+                "sections": [
+                  {
+                    "id": "energy-demand",
+                    "number": "1",
+                    "title": "Growing Demand for Energy",
+                    "description": "Despite the global shift towards renewable energy, oil and gas remain essential for powering industries, transportation and households. Rising urbanization, industrialization and population growth continue to drive energy demand, creating new opportunities for exploration and production.",
+                    "image": "/blog/3.webp",
+                    "imageAlt": "Oil pipelines transporting energy at sunset",
+                    "features": []
+                  },
+                  {
+                    "id": "energy-technology",
+                    "number": "2",
+                    "title": "Advancements in Technology",
+                    "description": "Innovation is transforming the oil and gas sector, making operations safer, more efficient and cost-effective. Key technological trends include:",
+                    "image": "/blog/2.webp",
+                    "imageAlt": "Modern oil and gas processing facility",
+                    "features": [
+                      { "id": "technology-digitalization", "icon": "FaCog", "title": "Digitalization", "text": "Use of AI, IoT and data analytics for better decision-making." },
+                      { "id": "technology-exploration", "icon": "FaCloudUploadAlt", "title": "Advanced Exploration", "text": "Seismic imaging and AI-based analysis for accurate resource identification." },
+                      { "id": "technology-automation", "icon": "FaRobot", "title": "Automation", "text": "Remote operations and autonomous equipment." },
+                      { "id": "technology-safety", "icon": "FaShieldAlt", "title": "Enhanced Safety Systems", "text": "Real-time monitoring and predictive maintenance." }
+                    ]
+                  },
+                  {
+                    "id": "energy-sustainability",
+                    "number": "3",
+                    "title": "Focus on Sustainability",
+                    "description": "The industry is increasingly adopting cleaner technologies and sustainable practices to reduce environmental impact. Initiatives such as carbon capture and storage, methane emission reduction and cleaner fuels are helping companies achieve net-zero goals while ensuring energy security.",
+                    "image": "/blog/2.webp",
+                    "imageAlt": "Energy facility supporting sustainable operations",
+                    "features": []
+                  },
+                  {
+                    "id": "energy-opportunities",
+                    "number": "4",
+                    "title": "New Opportunities in a Changing Market",
+                    "description": "The evolving energy landscape presents several growth opportunities for oil and gas companies, including:",
+                    "image": "/blog/4.webp",
+                    "imageAlt": "Oil storage infrastructure at sunset",
+                    "features": [
+                      { "id": "opportunity-gas", "text": "Expansion into natural gas and LNG projects." },
+                      { "id": "opportunity-carbon", "text": "Investment in low-carbon technologies." },
+                      { "id": "opportunity-renewables", "text": "Collaboration with renewable energy sectors." },
+                      { "id": "opportunity-offshore", "text": "Development of offshore and deepwater resources." },
+                      { "id": "opportunity-supply-chain", "text": "Strengthening supply chain resilience." }
+                    ]
+                  }
+                ]
+              },
+              "posts": [
+                {
+                  "id": "future-offshore-exploration",
+                  "day": "15",
+                  "monthYear": "Oct 2026",
+                  "category": "Exploration",
+                  "title": "The Future of Oil & Gas Industry: Trends and Opportunities",
+                  "description": "The oil and gas industry continues to play a vital role in meeting the world's energy demands. As global energy needs grow, the industry is undergoing a significant transformation driven by technological advancements, sustainability goals and evolving market dynamics.",
+                  "date": "15 October 2026",
+                  "image": "/blog/1.webp",
+                  "imageAlt": "Offshore oil exploration platform at sunset",
+                  "url": "/blog/future-offshore-exploration",
+                  "authorId": "energy-blog-admin",
+                  "breadcrumb": { "title": "Blog Detail", "bgImage": "/blog/1.webp", "paths": [{ "id": "offshore-home", "label": "Home", "url": "/" }, { "id": "offshore-current", "label": "Blog Detail" }] }
+                },
+                {
+                  "id": "processing-innovations",
+                  "day": "10",
+                  "monthYear": "Oct 2026",
+                  "category": "Processing",
+                  "title": "Innovations in Oil & Gas Processing for a Sustainable Tomorrow",
+                  "description": "Explore the latest innovations in processing technologies that improve efficiency and reduce environmental impact.",
+                  "date": "10 October 2026",
+                  "image": "/blog/2.webp",
+                  "imageAlt": "Oil and gas processing facility at sunset",
+                  "url": "/blog/processing-innovations",
+                  "authorId": "energy-blog-admin",
+                  "breadcrumb": { "title": "Blog Detail", "bgImage": "/blog/2.webp", "paths": [{ "id": "processing-home", "label": "Home", "url": "/" }, { "id": "processing-current", "label": "Blog Detail" }] }
+                },
+                {
+                  "id": "pipeline-energy-security",
+                  "day": "05",
+                  "monthYear": "Oct 2026",
+                  "category": "Transportation",
+                  "title": "The Role of Pipelines in Ensuring Global Energy Security",
+                  "description": "Learn how modern pipeline infrastructure plays a critical role in delivering safe, reliable and efficient energy worldwide.",
+                  "date": "05 October 2026",
+                  "image": "/blog/3.webp",
+                  "imageAlt": "Oil pipelines extending towards the horizon",
+                  "url": "/blog/pipeline-energy-security",
+                  "authorId": "energy-blog-admin",
+                  "breadcrumb": { "title": "Blog Detail", "bgImage": "/blog/3.webp", "paths": [{ "id": "pipeline-home", "label": "Home", "url": "/" }, { "id": "pipeline-current", "label": "Blog Detail" }] }
+                }
+              ]
+            }
+          }
+        },
+        "whyChooseUs": {
+          "variants": {
+            "EnergyWhyChooseUs1": {
+              "subtitle": "WHY CHOOSE US",
+              "title": "Pushing the boundaries of technology and manufacturing to build a",
+              "highlightedTitle": "stronger, smarter tomorrow .",
+              "experienceYears": "25",
+              "experienceLabel": "Years of\nexperience",
+              "imagePlant": "/choose/refinery_plant.webp",
+              "imagePlantAlt": "Oil and gas refinery distillation towers at sunset",
+              "imageEngineer": "/choose/engineer_tablet.webp",
+              "imageEngineerAlt": "Engineer holding tablet at industrial refinery plant",
+              "features": [
+                {
+                  "id": "why-feature-high-performance",
+                  "number": "01",
+                  "icon": "engineer",
+                  "title": "High performance",
+                  "description": "We deliver high-performance oil & gas solutions with international standards and best industry practices."
+                },
+                {
+                  "id": "why-feature-personalized-strategies",
+                  "number": "02",
+                  "icon": "pumpjack",
+                  "title": "Personalized\nstrategies",
+                  "description": "We develop customized strategies to meet your operational goals and ensure maximized efficiency."
+                }
+              ]
+            }
+          }
+        },
+        "Enquiry": {
+          "variants": {
+            "EnergyEnquiry1": {
+              "intro": {
+                "title1": "Let’s Discuss Your",
+                "titleHighlight": "Project Requirements",
+                "title2": "!",
+                "description": "Share your requirements with us and our team will get back to you with the best solutions for your oil & gas project."
+              },
+              "backgroundImage": "/blog/2.webp",
+              "form": {
+                "eyebrow": "ENQUIRY FORM",
+                "title": "Send Your Enquiry Now",
+                "description": "Fill out the form below and our team will get back to you shortly. We look forward to discussing how we can support your oil & gas projects.",
+                "namePlaceholder": "Full Name *",
+                "emailPlaceholder": "Email Address *",
+                "phonePlaceholder": "Phone Number *",
+                "companyPlaceholder": "Company Name",
+                "enquiryTypePlaceholder": "Enquiry Type *",
+                "locationPlaceholder": "Project Location",
+                "requirementsPlaceholder": "Project Requirements *",
+                "messagePlaceholder": "Message / Additional Details *",
+                "buttonText": "Enquiry Now",
+                "successMessage": "Thank you. Your enquiry has been received. Our team will contact you shortly.",
+                "enquiryTypeOptions": [
+                  {
+                    "id": "enquiry-type-new-project",
+                    "label": "New Project",
+                    "value": "new_project"
+                  },
+                  {
+                    "id": "enquiry-type-service",
+                    "label": "Service Enquiry",
+                    "value": "service_enquiry"
+                  },
+                  {
+                    "id": "enquiry-type-partnership",
+                    "label": "Partnership Opportunity",
+                    "value": "partnership"
+                  },
+                  {
+                    "id": "enquiry-type-consultation",
+                    "label": "Technical Consultation",
+                    "value": "technical_consultation"
+                  }
+                ],
+                "requirementOptions": [
+                  {
+                    "id": "requirement-exploration",
+                    "label": "Exploration and Drilling",
+                    "value": "exploration_drilling"
+                  },
+                  {
+                    "id": "requirement-processing",
+                    "label": "Oil and Gas Processing",
+                    "value": "oil_gas_processing"
+                  },
+                  {
+                    "id": "requirement-transportation",
+                    "label": "Pipeline and Transportation",
+                    "value": "pipeline_transportation"
+                  },
+                  {
+                    "id": "requirement-maintenance",
+                    "label": "Maintenance and Support",
+                    "value": "maintenance_support"
+                  }
+                ],
+                "icons": {
+                  "decorative": "FaCog",
+                  "name": "FaRegUser",
+                  "email": "FaEnvelope",
+                  "phone": "FaPhoneAlt",
+                  "company": "FaBuilding",
+                  "enquiryType": "FaListUl",
+                  "location": "FaMapMarkerAlt",
+                  "requirements": "FaRegFileAlt",
+                  "message": "FaRegCommentDots",
+                  "button": "FaArrowRight"
+                }
+              }
+            }
+          }
+        },
+        "contact": {
+          "variants": {
+            "EnergyContact1": {
+              "intro": {
+                "logo": "/main logo/header_logo.webp",
+                "logoAlt": "ENERGYPRO Oil and Gas Solutions",
+                "eyebrow": "CONTACT US",
+                "title1": "Have a project in",
+                "titleHighlight": "mind? Get in touch",
+                "title2": "with us",
+                "accentMark": "!",
+                "description": "We are always ready to assist you with innovative and efficient oil and gas solutions. Connect with our team for any queries, project discussions or business enquiries.",
+                "experienceYears": "20",
+                "experienceSuffix": "+",
+                "experienceLabel": "Years of Experience",
+                "experienceImage": "/blog/1.webp"
+              },
+              "contactCards": [
+                {
+                  "id": "contact-email",
+                  "icon": "FaEnvelope",
+                  "title": "Mail us 24/7",
+                  "lines": [
+                    { "id": "contact-email-info", "text": "info@xyz.com" }
+                  ],
+                  "url": "mailto:info@xyz.com",
+                  "variant": "accent"
+                },
+                {
+                  "id": "contact-location",
+                  "icon": "FaMapMarkerAlt",
+                  "title": "Our Location",
+                  "lines": [
+                    { "id": "contact-location-line-1", "text": "123 Main St," },
+                    { "id": "contact-location-line-2", "text": "New York, NY," },
+                    { "id": "contact-location-line-3", "text": "USA" }
+                  ],
+                  "variant": "light"
+                },
+                {
+                  "id": "contact-phone",
+                  "icon": "FaPhoneAlt",
+                  "title": "Call us 24/7",
+                  "lines": [
+                    { "id": "contact-phone-main", "text": "Phone: +1 000000000" },
+                    { "id": "contact-phone-mobile", "text": "Mobile: +1 000000000" }
+                  ],
+                  "url": "tel:+1000000000",
+                  "variant": "light"
+                },
+                {
+                  "id": "contact-social",
+                  "icon": "FaInstagram",
+                  "title": "Follow Us",
+                  "lines": [],
+                  "description": "Stay connected with us for the latest updates, projects and industry insights.",
+                  "variant": "dark",
+                  "socialLinks": [
+                    { "id": "contact-social-facebook", "icon": "FaFacebookF", "label": "Facebook", "url": "#" },
+                    { "id": "contact-social-x", "icon": "FaXTwitter", "label": "X", "url": "#" },
+                    { "id": "contact-social-linkedin", "icon": "FaLinkedinIn", "label": "LinkedIn", "url": "#" },
+                    { "id": "contact-social-youtube", "icon": "FaYoutube", "label": "YouTube", "url": "#" }
+                  ]
+                }
+              ],
+              "form": {
+                "icon": "FaHardHat",
+                "decorativeIcon": "FaCog",
+                "title": "Send Your Message To Us",
+                "description": "Fill out the form below and our team will get back to you shortly. We look forward to discussing how we can support your oil and gas projects.",
+                "fullNamePlaceholder": "Full Name *",
+                "emailPlaceholder": "Email Address *",
+                "phonePlaceholder": "Phone Number *",
+                "companyPlaceholder": "Company Name",
+                "projectTypePlaceholder": "Project Type",
+                "budgetRangePlaceholder": "Budget Range",
+                "messagePlaceholder": "Message / Requirements *",
+                "buttonText": "Submit Now",
+                "successMessage": "Thank you. Your message has been submitted successfully.",
+                "projectTypeOptions": [
+                  { "id": "project-type-exploration", "label": "Exploration and Production", "value": "exploration_production" },
+                  { "id": "project-type-processing", "label": "Processing and Refining", "value": "processing_refining" },
+                  { "id": "project-type-pipeline", "label": "Pipeline and Transportation", "value": "pipeline_transportation" },
+                  { "id": "project-type-storage", "label": "Storage and Terminal", "value": "storage_terminal" }
+                ],
+                "budgetRangeOptions": [
+                  { "id": "budget-under-100k", "label": "Under $100,000", "value": "under_100k" },
+                  { "id": "budget-100k-500k", "label": "$100,000 - $500,000", "value": "100k_500k" },
+                  { "id": "budget-500k-1m", "label": "$500,000 - $1,000,000", "value": "500k_1m" },
+                  { "id": "budget-over-1m", "label": "Over $1,000,000", "value": "over_1m" }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "templateComponents": {
+        "shared": {
+          "TopBar": "EnergyTopBar1",
+          "Header": "EnergyHeader1",
+          "Footer": "EnergyFooter1"
+        },
+        "pages": {
+          "home": {
+            "components": [
+              {
+                "key": "HeroHeading",
+                "component": "EnergyHeroHeading1"
+              },
+              {
+                "key": "HeroSection",
+                "component": "EnergyHero1"
+              },
+              {
+                "key": "AboutUs",
+                "component": "EnergyAboutUs1"
+              },
+              {
+                "key": "OurServices",
+                "component": "EnergyOurServices1"
+              },
+              {
+                "key": "Testimonials",
+                "component": "EnergyTestimonials1"
+              },
+              {
+                "key": "OurBlog",
+                "component": "EnergyOurBlog1"
+              }
+            ]
+          },
+          "services": {
+            "components": [
+              {
+                "key": "OurServices",
+                "component": "EnergyOurServices1"
+              }
+            ]
+          },
+          "serviceDetails": {
+            "components": [
+              {
+                "key": "ServiceDetail",
+                "component": "EnergyServiceDetail1"
+              }
+            ]
+          },
+          "projects": {
+            "components": [
+              {
+                "key": "ProjectGrid",
+                "component": "EnergyProjects1"
+              }
+            ]
+          },
+          "industries": {
+            "components": [
+              {
+                "key": "IndustriesWeServe",
+                "component": "EnergyIndustries1"
+              }
+            ]
+          },
+          "sustainability": {
+            "components": [
+              {
+                "key": "Sustainability",
+                "component": "EnergySustainability1"
+              }
+            ]
+          },
+          "about": {
+            "components": [
+              {
+                "key": "AboutUs",
+                "component": "EnergyAboutUs1"
+              },
+              {
+                "key": "WhyChooseUs",
+                "component": "EnergyWhyChooseUs1"
+              }
+            ]
+          },
+          "blog": {
+            "components": [
+              {
+                "key": "Blog",
+                "component": "BlogGrid"
+              }
+            ]
+          },
+          "blogDetails": {
+            "components": [
+              {
+                "key": "Blog",
+                "component": "BlogDetailSection"
+              }
+            ]
+          },
+          "contact": {
+            "components": [
+              {
+                "key": "Contact",
+                "component": "EnergyContact1"
+              }
+            ]
+          },
+          "enquiry": {
+            "components": [
+              {
+                "key": "Enquiry",
+                "component": "EnergyEnquiry1" 
+              }
+            ]
+          },
+          "team": {
+            "components": [
+              {
+                "key": "Team",
+                "component": "EnergyTeam1"
+              }
+            ]
+          },
+          "notFound": {
+            "components": [
+              {
+                "key": "NotFoundSection",
+                "component": "NotFoundSection"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
